@@ -1,2 +1,2 @@
 # Portfólio-em-processo
-Portfólio-em-processo with HTML
+Portfólio-em-processo with HTML + CSS + JAVASCRIPT 
